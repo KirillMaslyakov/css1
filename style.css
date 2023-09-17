@@ -1,0 +1,16 @@
+.a{
+    color: white;
+    font-size: 100px;
+    font-weight: 700;
+    text-decoration: underline;
+    background: greenyellow;
+    letter-spacing: 10px;
+}
+img{
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 100%;
+}
+.b{
+    border-bottom: 5px solid yellow;
+}
